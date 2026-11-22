@@ -6,6 +6,14 @@
       "port": 27015,
       "map": "jungle",
       "mode": "Deathmatch"
+    },
+    {
+      "name": "serverunanse",
+      "ip": "205.147.22.29",
+      "port": 27015,
+      "map": "de_dust2",
+      "mode": "bomb",
+      "players": "0/8"
     }
   ]
 }
