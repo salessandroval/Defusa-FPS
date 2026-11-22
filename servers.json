@@ -1,0 +1,11 @@
+{
+  "servers": [
+    {
+      "name": "Defusa-Oficial-Server-Prueba",
+      "ip": "127.0.0.1",
+      "port": 27015,
+      "map": "jungle",
+      "mode": "Deathmatch"
+    }
+  ]
+}
